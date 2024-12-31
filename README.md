@@ -22,7 +22,7 @@
 - 📄 Know about my experiences [My Resumé](https://docs.google.com/document/d/1ZRmCuh2h2Q2OBHJapX9ef_QKb5fDoZyc4p9-IMSA2GU/edit?usp=sharing) <a href="https://docs.google.com/document/d/1ZRmCuh2h2Q2OBHJapX9ef_QKb5fDoZyc4p9-IMSA2GU/edit?usp=sharing" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/google.svg" alt="Uloamaka" height="30" width="40" /></a>
 - 🤝 Happy to connect with you:
 <a href="https://x.com/ebitegift235" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Uloamaka" height="30" width="40" /></a>
-<a href="www.linkedin.com/in/godsgift235" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Uloamaka" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/godsgift235" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Uloamaka" height="30" width="40" /></a>
 
 
 ## GitHub Streak Stats
