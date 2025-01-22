@@ -7,7 +7,7 @@
 
 
 
- ## Thanks for visiting! Here's what I’m all about
+ ## Thanks for visiting! Here's what I’m all about:
 
 
 <div align="center">
