@@ -8,7 +8,7 @@
 
 
  ## Thanks for visiting! Here's what I’m all about:
--  Hi there🤘 I'm Godsgift Uloamaka — a dedicated software engineer and tech enthusiast.
+-  Hi there🤘 I'm Godsgift Uloamaka — a dedicated software engineer and open-source enthusiast.
 - 🌱 HNGX & HNG11 FINALIST
 - 🌱 Currently enhancing my skills in Data Structures and Algorithms...
 - 🌱 Passionate [Leetcoder](https://leetcode.com/u/uloamaka/) <a href="https://leetcode.com/u/uloamaka/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Uloamaka" height="30" width="40" /></a>
